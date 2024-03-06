@@ -1,0 +1,16 @@
+{
+  "creativeTabs.heersextend": "赫尔的扩展",
+  "block.heersextend.cyber_killer": "赛博杀戮机",
+  "block.heersextend.cyber_killer.title": "赛博杀戮机",
+  "block.heersextend.nbt_filter": "NBT筛选器",
+  "block.heersextend.nbt_filter.title": "NBT筛选配置",
+  "item.heersextend.cyber_core": "赛博核心",
+  "item.heersextend.cyber_power_core": "赛博能量核心",
+  "item.heersextend.upgrade": "完全升级器",
+  "block.heersextend.nbt_filter.editbox": "筛选条件",
+  "block.heersextend.nbt_filter.button": "保存",
+  "block.heersextend.sports_boy_generator": "体育生沉淀发电机",
+  "item.heersextend.white_socks": "白袜",
+  "item.heersextend.dirty_white_socks": "有污渍的白袜",
+  "gui.heersextend.sports_boy_generator.title": "体育生沉淀发电机"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "pattern": [
+    "tct",
+    "t#t",
+    "ttt"
+  ],
+  "key": {
+    "#": {
+      "item": "heersextend:cyber_core"
+    },
+    "c": {
+      "item": "heersextend:cyber_power_core"
+    },
+    "t": {
+      "tag": "forge:storage_blocks/steel"
+    }
+  },
+  "result": {
+    "item": "heersextend:cyber_killer",
+    "count": 1
+  }
+}

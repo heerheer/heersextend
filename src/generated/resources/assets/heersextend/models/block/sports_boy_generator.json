@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "heersextend:block/sports_boy_generator_side",
+    "east": "heersextend:block/sports_boy_generator_side",
+    "north": "heersextend:block/sports_boy_generator_north",
+    "particle": "heersextend:block/sports_boy_generator_side",
+    "south": "heersextend:block/sports_boy_generator_side",
+    "up": "heersextend:block/sports_boy_generator_side",
+    "west": "heersextend:block/sports_boy_generator_side"
+  }
+}

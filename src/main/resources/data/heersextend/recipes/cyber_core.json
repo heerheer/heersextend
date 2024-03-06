@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "nen",
+    "#g#",
+    "qqq"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "g": {
+      "item": "heersextend:cyber_power_core"
+    },
+    "e": {
+      "item": "minecraft:ender_pearl"
+    },
+    "q": {
+      "item": "minecraft:redstone_block"
+    },
+    "n": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "heersextend:cyber_core",
+    "count": 1
+  }
+}

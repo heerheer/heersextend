@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "heersextend:block/sports_boy_generator",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "heersextend:block/sports_boy_generator",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "heersextend:block/sports_boy_generator"
+    },
+    "facing=south": {
+      "model": "heersextend:block/sports_boy_generator",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "heersextend:block/sports_boy_generator",
+      "x": -90
+    },
+    "facing=west": {
+      "model": "heersextend:block/sports_boy_generator",
+      "y": -90
+    }
+  }
+}

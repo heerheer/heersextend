@@ -1,0 +1,117 @@
+[053月2024 20:03:24.838] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\heerh\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.1.97, --fml.fmlVersion, 47.1.47, --fml.mcVersion, 1.20.1, --fml.mcpVersion, 20230612.114412, --mod, heersextend, --all, --output, D:\repos\mc\neoForge1.20.1\src\generated\resources, --existing, D:\repos\mc\neoForge1.20.1\src\main\resources]
+[053月2024 20:03:24.842] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.10+10.0.10+main.22f00f84 starting: java version 17.0.10 by JetBrains s.r.o.; OS Windows 11 arch amd64 version 10.0
+[053月2024 20:03:24.974] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[053月2024 20:03:25.023] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/heerh/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[053月2024 20:03:25.274] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\heerh\.gradle\caches\modules-2\files-2.1\net.neoforged.fancymodloader\language-java\47.1.47\9f5f057de5fea5106fca0df2b0faea12a85bc283\language-java-47.1.47.jar is missing mods.toml file
+[053月2024 20:03:25.277] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\heerh\.gradle\caches\modules-2\files-2.1\net.neoforged.fancymodloader\language-lowcode\47.1.47\b9cb4bc84722dc99e902883f8ea5a952c0415d5c\language-lowcode-47.1.47.jar is missing mods.toml file
+[053月2024 20:03:25.279] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\heerh\.gradle\caches\modules-2\files-2.1\net.neoforged.fancymodloader\language-minecraft\47.1.47\70c137579710b203f0220b80a90eff3db19b32a2\language-minecraft-47.1.47.jar is missing mods.toml file
+[053月2024 20:03:25.281] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\heerh\.gradle\caches\modules-2\files-2.1\net.neoforged.fancymodloader\core\47.1.47\915a0dc36418f3c3bf74e56015d1cb79ef5430f0\core-47.1.47.jar is missing mods.toml file
+[053月2024 20:03:25.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "language-java-47.1.47.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "language-lowcode-47.1.47.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "language-minecraft-47.1.47.jar" of type LANGPROVIDER with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "core-47.1.47.jar" of type LIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.296] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.297] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "main" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.297] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@5bb8f9e2
+[053月2024 20:03:25.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "pipez-443900-4916633_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mek-268560-5125665_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nbtedit-678133-5082493_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.337] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "pipez-443900-4916633_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.337] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mek-268560-5125665_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.337] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "nbtedit-678133-5082493_mapped_parchment_2023.09.03-1.20.1.jar" of type MOD with provider net.minecraftforge.fml.loading.moddiscovery.ClasspathLocator@3bcd426c
+[053月2024 20:03:25.342] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "events-47.1.47.jar" of type GAMELIBRARY with provider net.minecraftforge.fml.loading.moddiscovery.BuiltinGameLibraryLocator@11a7ba62
+[053月2024 20:03:25.392] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[053月2024 20:03:26.665] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\heerh\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, heersextend, --all, --output, D:\repos\mc\neoForge1.20.1\src\generated\resources, --existing, D:\repos\mc\neoForge1.20.1\src\main\resources]
+[053月2024 20:03:27.041] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [heersextend]
+[053月2024 20:03:30.885] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: Loading NBTEdit ver: 5.0.3
+[053月2024 20:03:30.924] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: NeoForge mod loading, version 47.1.97, for MC 1.20.1 with MCP 20230612.114412
+[053月2024 20:03:30.928] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: NeoForge v47.1.97 Initialized
+[053月2024 20:03:31.004] [modloading-worker-0/INFO] [In-game NBTEdit Reborn/]: NBTEdit loaded!
+[053月2024 20:03:32.786] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/heerh/.gradle/caches/forge_gradle/minecraft_user_repo/net/neoforged/forge/1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[053月2024 20:03:32.786] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/heerh/.gradle/caches/forge_gradle/minecraft_user_repo/net/neoforged/forge/1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[053月2024 20:03:32.808] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load filter metadata
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 20 path $.pack.pack_format
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:529) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.parse(GsonHelper.java:593) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.parse(GsonHelper.java:601) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.AbstractPackResources.getMetadataFromStream(AbstractPackResources.java:42) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.AbstractPackResources.getMetadataSection(AbstractPackResources.java:33) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.getPackFilterSection(MultiPackResourceManager.java:65) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.<init>(MultiPackResourceManager.java:32) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraftforge.common.data.ExistingFileHelper.<init>(ExistingFileHelper.java:119) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraftforge.data.loading.DatagenModLoader.begin(DatagenModLoader.java:51) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.data.Main.main(Main.java:90) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:126) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.dataService(CommonLaunchHandler.java:122) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.ForgeDataUserdevLaunchHandler.runService(ForgeDataUserdevLaunchHandler.java:22) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:108) ~[loader-47.1.47.jar:47.1]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 20 path $.pack.pack_format
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:602) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:786) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:522) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	... 26 more
+[053月2024 20:03:32.829] [main/ERROR] [net.minecraft.server.packs.AbstractPackResources/]: Couldn't load filter metadata
+com.google.gson.JsonParseException: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 20 path $.pack.pack_format
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:524) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.fromJson(GsonHelper.java:529) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.parse(GsonHelper.java:593) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.util.GsonHelper.parse(GsonHelper.java:601) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.AbstractPackResources.getMetadataFromStream(AbstractPackResources.java:42) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.AbstractPackResources.getMetadataSection(AbstractPackResources.java:33) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.getPackFilterSection(MultiPackResourceManager.java:65) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.<init>(MultiPackResourceManager.java:32) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraftforge.common.data.ExistingFileHelper.<init>(ExistingFileHelper.java:120) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraftforge.data.loading.DatagenModLoader.begin(DatagenModLoader.java:51) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at net.minecraft.data.Main.main(Main.java:90) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:126) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.dataService(CommonLaunchHandler.java:122) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.ForgeDataUserdevLaunchHandler.runService(ForgeDataUserdevLaunchHandler.java:22) ~[loader-47.1.47.jar:47.1]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.lambda$launchService$4(CommonLaunchHandler.java:108) ~[loader-47.1.47.jar:47.1]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.10.jar:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Use JsonReader.setLenient(true) to accept malformed JSON at line 6 column 20 path $.pack.pack_format
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1657) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.checkLenient(JsonReader.java:1463) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:602) ~[gson-2.10.jar:?]
+	at com.google.gson.stream.JsonReader.peek(JsonReader.java:433) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:786) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$28.read(TypeAdapters.java:725) ~[gson-2.10.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$34$1.read(TypeAdapters.java:1007) ~[gson-2.10.jar:?]
+	at net.minecraft.util.GsonHelper.fromNullableJson(GsonHelper.java:522) ~[forge-1.20.1-47.1.97_mapped_parchment_2023.09.03-1.20.1-recomp.jar:?]
+	... 26 more
+[053月2024 20:03:32.984] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: heersextend
+[053月2024 20:03:33.000] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: heersextend finished after 15 ms
+[053月2024 20:03:33.000] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block Models: heersextend
+[053月2024 20:03:33.003] [main/INFO] [net.minecraft.data.DataGenerator/]: Block Models: heersextend finished after 2 ms
+[053月2024 20:03:33.003] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: heersextend
+[053月2024 20:03:33.019] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: heersextend finished after 15 ms
+[053月2024 20:03:33.019] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 35 ms
+[053月2024 20:03:33.025] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 12, old count: 12, new count: 13, removed stale: 0, written: 2

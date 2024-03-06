@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "heersextend:block/nbt_filter",
+      "x": 90
+    },
+    "facing=east": {
+      "model": "heersextend:block/nbt_filter",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "heersextend:block/nbt_filter"
+    },
+    "facing=south": {
+      "model": "heersextend:block/nbt_filter",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "heersextend:block/nbt_filter",
+      "x": -90
+    },
+    "facing=west": {
+      "model": "heersextend:block/nbt_filter",
+      "y": -90
+
+    }
+  }
+}

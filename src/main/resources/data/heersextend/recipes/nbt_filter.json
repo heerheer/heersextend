@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "tht",
+    "tct",
+    "ttt"
+  ],
+  "key": {
+    "c": {
+      "item": "heersextend:cyber_core"
+    },
+    "t": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "heersextend:nbt_filter",
+    "count": 1
+  }
+}
